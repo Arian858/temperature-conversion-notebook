@@ -1,7 +1,9 @@
 
 # Temperature Conversion Notebook
 
+
 [![Launch with Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Arian858/temperature-conversion-notebook/HEAD?urlpath=lab/tree/notebooks/temperature_conversion.ipynb)
+
 
 A practical Python project demonstrating temperature conversion between Celsius and Fahrenheit through reusable functions, input validation, automated testing, and interactive execution.
 
